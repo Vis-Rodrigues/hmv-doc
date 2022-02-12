@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6643],{644:function(e){e.exports=JSON.parse('{"allTagsPath":"/hmv-doc/blog/tags","slug":"/hmv-doc/blog/tags/greetings","name":"greetings","count":1,"permalink":"/hmv-doc/blog/tags/greetings"}')}}]);

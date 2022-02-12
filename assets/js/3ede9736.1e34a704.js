@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[775],{7399:function(a){a.exports=JSON.parse('{"allTagsPath":"/hmv-doc/blog/tags","slug":"/hmv-doc/blog/tags/hola","name":"hola","count":1,"permalink":"/hmv-doc/blog/tags/hola"}')}}]);
