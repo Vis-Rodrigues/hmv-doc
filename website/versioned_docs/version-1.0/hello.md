@@ -9,7 +9,7 @@ slug: /challenge
 
 # Hello
 
-This is my **first Docusaurus document**!
+This is teste my **first Docusaurus document**!
 
 ```jsx title="src/components/HelloDocusaurus.js"
 function HelloDocusaurus() {
